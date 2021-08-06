@@ -1,0 +1,18 @@
+c:\users\etecja\documents\visual studio 2012\Projects\jogomemoria\jogomemoria\bin\Debug\jogomemoria.exe.config
+c:\users\etecja\documents\visual studio 2012\Projects\jogomemoria\jogomemoria\obj\Debug\jogomemoria.Form1.resources
+c:\users\etecja\documents\visual studio 2012\Projects\jogomemoria\jogomemoria\obj\Debug\jogomemoria.Resources.resources
+c:\users\etecja\documents\visual studio 2012\Projects\jogomemoria\jogomemoria\obj\Debug\jogomemoria.vbproj.GenerateResource.Cache
+c:\users\etecja\documents\visual studio 2012\Projects\jogomemoria\jogomemoria\bin\Debug\jogomemoria.exe
+c:\users\etecja\documents\visual studio 2012\Projects\jogomemoria\jogomemoria\bin\Debug\jogomemoria.pdb
+c:\users\etecja\documents\visual studio 2012\Projects\jogomemoria\jogomemoria\bin\Debug\jogomemoria.xml
+c:\users\etecja\documents\visual studio 2012\Projects\jogomemoria\jogomemoria\obj\Debug\jogomemoria.exe
+c:\users\etecja\documents\visual studio 2012\Projects\jogomemoria\jogomemoria\obj\Debug\jogomemoria.xml
+c:\users\etecja\documents\visual studio 2012\Projects\jogomemoria\jogomemoria\obj\Debug\jogomemoria.pdb
+I:\3° Ano\DS\jogomemoria\jogomemoria\bin\Debug\jogomemoria.exe.config
+I:\3° Ano\DS\jogomemoria\jogomemoria\obj\Debug\jogomemoria.exe
+I:\3° Ano\DS\jogomemoria\jogomemoria\obj\Debug\jogomemoria.xml
+I:\3° Ano\DS\jogomemoria\jogomemoria\obj\Debug\jogomemoria.pdb
+E:\3° Ano\DS\jogomemoria\jogomemoria\bin\Debug\jogomemoria.exe.config
+E:\3° Ano\DS\jogomemoria\jogomemoria\obj\Debug\jogomemoria.exe
+E:\3° Ano\DS\jogomemoria\jogomemoria\obj\Debug\jogomemoria.xml
+E:\3° Ano\DS\jogomemoria\jogomemoria\obj\Debug\jogomemoria.pdb
